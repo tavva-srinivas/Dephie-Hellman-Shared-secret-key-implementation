@@ -1,0 +1,4 @@
+Open your terminal and execute the following commands:
+
+md5sum SSNKA.bin
+md5sum SSNKB.bin

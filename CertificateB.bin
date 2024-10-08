@@ -1,0 +1,8 @@
+Issuer Name: IIITA
+Subject ID: partyB@example.com
+Validity:
+    NotBefore: Mon, 02 Sep 2024
+    NotAfter: Wed, 02 Sep 2026
+Signature Algorithm: DSA
+Subject Public Key: (Diffie-Hellman) CPwRcEoSbrIybXAd/j5tpXVY0DZjPBycfhUA5CKpa+npPVKkieky45+IzTwzLSPzASlJqmTT+Qp09mHNsFqd7aL6x1UlxX5aLK2a9OYU9XTxV/V1Z6V3x5EK4mBm3vrMYk00VIvfmxwdZPCUypYCud6a9FsqKitue52Grv+NUpE=
+Signature: JXiw6TGgCFRVobixAzyqpPzpJa19cxD9O5K8nXSLQtFBggJkGzyb1tPgoudtdlKPBkQirWL8mkE=
